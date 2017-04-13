@@ -1,0 +1,167 @@
+body {
+  font-family: 'Open Sans Condensed', sans-serif;
+  margin: 0;
+}
+
+
+.bannerbox {
+  height: 400px;
+  background-color: black;
+}
+
+.BannerImage img{
+  height: 400px;
+}
+
+.BannerImage {
+  text-align: center;
+  margin-right: 16px
+}
+
+.banner {
+  background-color: black;
+  height: 50px;
+}
+
+
+.links {
+font-size: 1.5rem;
+padding-top: 10px;
+text-align: center;
+}
+
+.links a {
+color: white;
+text-decoration: none;
+padding-left: 200px;
+padding-right: 200px;
+}
+
+.links aa {
+color: #b83131;
+text-decoration: none;
+padding-left: 200px;
+padding-right: 200px;
+}
+
+.typeofwork {
+  font-size: 1.2rem;
+  padding-top: 40px;
+  text-align: center;
+  margin-right: 35px;
+}
+
+.typeofwork a {
+  color: rgba(000,000,000,0.50);
+  text-decoration: none;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.typeofwork aa {
+  color: rgba(000,000,000,0.50);
+  text-decoration: underline;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.AboutTitle {
+text-align: center;
+font-size: 2rem;
+padding-top: 50px;
+color: rgba(0, 0, 0, 0.6);
+}
+
+.ContactTitle {
+  text-align: center;
+  font-size: 2rem;
+  padding-top: 50px;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.redline {
+  color: #b83131;
+  font-size: 3rem;
+}
+
+.abouttxt {
+  text-align: center;
+  padding-top: 10px;
+  font-size: 1.2rem;
+  color: rgba(0, 0, 0, 0.8);
+}
+
+.contacttxt {
+  text-align: center;
+  padding-top: 10px;
+  font-size: 1.2rem;
+  color: rgba(0, 0, 0, 0.8);
+}
+
+.Comingsoon {
+  text-align: center;
+  font-size: 2rem;
+  padding-top: 50px;
+  color: rgba(0, 0, 0,0.75);
+}
+
+.lightbulb {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.lightbulb img {
+  max-width: 220px;
+  padding-top: 10px;
+}
+
+.red {
+  color: #b83131;
+}
+
+.FOR {
+
+  font-size: 1.4rem;
+}
+
+.Forest {
+  text-align: center;
+
+}
+
+.Forest img {
+  opacity: 0.1;
+}
+
+.Other1 {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.Other1 img {
+  max-width: 500px;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+.FullP {
+  text-align: center;
+  padding-top: 40px;
+}
+
+.FullP img {
+  max-width: 960px;
+}
+
+.Photos {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.Photos img {
+  max-width: 360px;
+  padding-top: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
